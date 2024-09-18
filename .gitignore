@@ -1,0 +1,5 @@
+llama3-8b-jon
+venv
+__pycache__
+.cog
+weights
